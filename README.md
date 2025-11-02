@@ -3,7 +3,6 @@
 ## Victorian Institute of Technology
 ### Developing Data Access Solution - Semester 2, 2025
 
----
 
 ## 📋 Project Overview
 
