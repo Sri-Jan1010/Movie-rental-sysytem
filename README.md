@@ -335,10 +335,10 @@ ImportError: No module named 'tkinter'
 **Course:** Developing Data Access Solution - Semester 2, 2025
 
 ### Team Members:
-*(Add your team members' names here)*
-1. [Team Leader Name] - Employee ID: 1
-2. [Member 2 Name] - Employee ID: 2
-3. [Member 3 Name] - Employee ID: 3
+1. SRIJAN PARAJULI — Student ID: 55537 (Team Leader)
+2. BIJAYA TAMANG — Student ID: 57913
+3. KRISHNA THARU — Student ID: 57857
+4. SHARAD KAFLE — Student ID: 56867
 
 ---
 
@@ -407,7 +407,7 @@ For technical support or questions:
 
 ---
 
-**Last Updated:** November 2024  
+**Last Updated:** November 3, 2025  
 **Version:** 1.0.0  
 **Status:** Production Ready
 
